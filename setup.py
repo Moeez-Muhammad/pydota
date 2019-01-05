@@ -8,5 +8,5 @@ setup(name='pydota',
     author_email="mmoeez48@gmail.com",
     description="A python library to issue requests to the OpenDota API as well as provide wrapper utility functions",
     packages=find_packages(),
-    long_description=open('README.md').read()
+    long_description=open('README.md').read(),
     zip_safe=False)
